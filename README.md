@@ -13,18 +13,18 @@
 	- Xin đi lại
 	- Đến ngược thời gian
 	- Chơi hai người offline
-	- chơi hai người qua mạng LAN
+	- Chơi hai người qua mạng LAN
 ## Sơ đồ phân hệ
 
 ![image](https://user-images.githubusercontent.com/59040797/93621606-02168700-fa06-11ea-809d-1af8b56f0d68.png)
 
 ## Database
 - Sử dụng công cụ quản lý dữ liệu SQL Server Manager
-- Khỏi tạo database -> lưu trữ thông tin đăng nhập
+- Khởi tạo database -> lưu trữ thông tin đăng nhập
 
 ![image](https://user-images.githubusercontent.com/59040797/93624145-1492bf80-fa0a-11ea-9dca-602e470df712.png)
 
-- Dưa trên table trên ta có chức năng cơ bản như:
+- Dựa trên table trên ta có chức năng cơ bản như:
 	- Thêm một tài khoản
 	- Kiểm tra user có tồn tại không
 	- Kiểm tra user nào có điểm cao nhất
@@ -46,9 +46,9 @@
 
 ![image](https://user-images.githubusercontent.com/59040797/93621718-2e320800-fa06-11ea-9198-eb71f9d2018a.png)
 
-- Đây là màn hình chỉnh để chơi game
+- Đây là màn hình chính để chơi game
 	- Góc trên phía bên trái là thông tin của người chơi
 	- Các nút ở giữa là cách chức năng thông tin
-	-	Nút dưới góc bên trái là để thoát game
-	-	Khung trên bên phải là khung chat
-	-	Các nút ở dưới là thực hiện chức năng trò chơi.
+	- Nút dưới góc bên trái là để thoát game
+	- Khung trên bên phải là khung chat
+	- Các nút ở dưới là thực hiện chức năng trò chơi.
