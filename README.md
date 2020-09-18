@@ -53,4 +53,4 @@
 	- Khung trên bên phải là khung chat
 	- Các nút ở dưới là thực hiện chức năng trò chơi.
  ## Lưu Ý
- - Game trên là quá trình tìm hiểu của nhóm với áp lực về thơi gian nên chưa có sự kiểm tra kĩ và nhiều, nên do đó có thể có chứa bug tiềm ẩn.
+ - Game trên là quá trình tìm hiểu của nhóm với áp lực về thời gian nên chưa tìm hiểu xâu và kiểm thử nhiều, do đó có thể có chứa bug tiềm ẩn.
